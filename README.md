@@ -12,4 +12,6 @@ chmod +x setup.py
 
 chmod +x Termux-Lock.py
 
+python setup.py
+
 python Termux-Lock.py
