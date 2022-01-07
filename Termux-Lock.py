@@ -2,7 +2,7 @@
 import stdiomask as sm
 import os,sys
 
-# coded by Ali Imran
+# coded by Rana Nadeem Rajput
 
 flag = True
 endc = '\033[0m'
@@ -13,9 +13,9 @@ yellow = '\033[33m'
 blue = '\033[34m'
 magneto = '\033[36m'
 
-os.system('figlet -c -k -f slant Lock|lolcat')
+os.system('figlet -c -k -f slant Rana|lolcat')
 print ( magneto +'\n\t\t[ ★ Termux - Lock ★ ]\n',endc)
-print ( green +'\t\tcoded by - Ali Imran\n',endc)
+print ( green +'\t\tcoded by - Rana Nadeem Rajput\n',endc)
 
 def main_menu():
 	dash = '-'
